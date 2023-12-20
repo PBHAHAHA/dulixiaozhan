@@ -14,13 +14,6 @@ export default {
       }
     ],
     [
-      'link',
-      {
-        rel: 'stylesheet',
-        href: 'https://cdn.bootcdn.net/ajax/libs/KaTeX/0.12.0/katex.min.css'
-      }
-    ],
-    [
       'script',
       {},
       `
