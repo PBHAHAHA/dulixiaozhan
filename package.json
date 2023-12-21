@@ -9,6 +9,10 @@
     "serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^14.0.0",
+    "vite": "^5.0.10",
+    "vitepress-plugin-search": "1.0.4-alpha.21",
     "vue": "^3.2.45"
   },
   "dependencies": {
